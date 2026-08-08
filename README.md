@@ -1,6 +1,6 @@
 # Awesome-Patent-Analytics
 
-# Top Patent Analytics Platforms Ecosystem
+## Top Patent Analytics Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Patent Search, Landscape Analysis, Competitive Intelligence, Citation Networks & IP Strategy*  
