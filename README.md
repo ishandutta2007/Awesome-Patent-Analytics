@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[PatSnap](https://www.patsnap.com/)**  
-  Comprehensive AI-powered innovation intelligence platform offering patent search, landscape visualization, competitive analysis, and integrated R&D insights across global patent data.
-
-- **[LexisNexis PatentSight](https://www.lexisnexisip.com/)**  
-  Advanced patent analytics focused on portfolio valuation, competitive benchmarking, and proprietary metrics such as the Patent Asset Index for strategic IP decisions.
-
-- **[Derwent Innovation (Clarivate)](https://clarivate.com/products/ip-intelligence/patent-intelligence-software/derwent-innovation/)**  
-  High-quality patent analytics platform built on the expert-curated Derwent World Patents Index (DWPI), strong in citation analysis and scientific literature integration.
-
-- **[IFI Claims](https://www.ificlaims.com/)**  
-  Patent data and analytics provider offering global patent databases, analytics tools, and API access for enterprise IP intelligence.
-
-- **[Gridlogics (PatSeer / Patent iNSIGHT Pro)](https://www.gridlogics.com/)**  
-  Patent search and analytics suite focused on landscape analysis, competitive intelligence, and customizable reporting for IP professionals.
-
-- **[Questel Orbit](https://www.questel.com/)**  
-  End-to-end IP intelligence platform with strong patent family management, legal status monitoring, FTO workflows, and global coverage.
-
-- **[Ambercite](https://www.ambercite.com/)**  
-  Citation-network and AI-driven patent analytics specialized in discovering hidden prior art and ranking patents by network relevance.
-
-- **[Cipher](https://cipher.ai/)**  
-  AI-powered patent analytics platform emphasizing technology landscaping, competitive intelligence, and actionable insights for R&D and strategy teams.
-
-- **[IP.com](https://www.ip.com/)**  
-  Innovation and prior-art search platform combining patent and non-patent literature with analytics for novelty and freedom-to-operate assessments.
-
-- **[Google Patents Public Datasets](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data)**  
-  Large-scale public patent data available via BigQuery for custom analytics, covering patents from multiple jurisdictions with free-tier access.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[PatSnap](https://www.patsnap.com/)** | Comprehensive AI-powered innovation intelligence platform offering patent search, landscape visualization, competitive analysis, and integrated R&D insights across global patent data. | Custom/Enterprise | None |
+| **[LexisNexis PatentSight](https://www.lexisnexisip.com/)** | Advanced patent analytics focused on portfolio valuation, competitive benchmarking, and proprietary metrics such as the Patent Asset Index for strategic IP decisions. | Custom/Enterprise | None |
+| **[Derwent Innovation (Clarivate)](https://clarivate.com/products/ip-intelligence/patent-intelligence-software/derwent-innovation/)** | High-quality patent analytics platform built on the expert-curated Derwent World Patents Index (DWPI), strong in citation analysis and scientific literature integration. | Custom/Enterprise | None |
+| **[IFI Claims](https://www.ificlaims.com/)** | Patent data and analytics provider offering global patent databases, analytics tools, and API access for enterprise IP intelligence. | Custom/Enterprise | None |
+| **[Gridlogics (PatSeer / Patent iNSIGHT Pro)](https://www.gridlogics.com/)** | Patent search and analytics suite focused on landscape analysis, competitive intelligence, and customizable reporting for IP professionals. | Custom/Enterprise | None |
+| **[Questel Orbit](https://www.questel.com/)** | End-to-end IP intelligence platform with strong patent family management, legal status monitoring, FTO workflows, and global coverage. | Custom/Enterprise | None |
+| **[Ambercite](https://www.ambercite.com/)** | Citation-network and AI-driven patent analytics specialized in discovering hidden prior art and ranking patents by network relevance. | Custom/Enterprise | Free Trial |
+| **[Cipher](https://cipher.ai/)** | AI-powered patent analytics platform emphasizing technology landscaping, competitive intelligence, and actionable insights for R&D and strategy teams. | Custom/Enterprise | None |
+| **[IP.com](https://www.ip.com/)** | Innovation and prior-art search platform combining patent and non-patent literature with analytics for novelty and freedom-to-operate assessments. | Custom/Enterprise | None |
+| **[Google Patents Public Datasets](https://console.cloud.google.com/marketplace/product/google_patents_public_datasets/google-patents-public-data)** | Large-scale public patent data available via BigQuery for custom analytics, covering patents from multiple jurisdictions with free-tier access. | Pay-as-you-go | 1 TB/month BigQuery processing |
 
 ## Open-Source GitHub Projects
 
